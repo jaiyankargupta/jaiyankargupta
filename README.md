@@ -46,3 +46,5 @@
 ## Get in Touch
 
 Feel free to reach out if you want to discuss web development, open source, or any other interesting topics. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jaiyankargupta/) or follow me on [Twitter](https://twitter.com/jaiyankargupta).
+
+---
