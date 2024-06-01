@@ -69,7 +69,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jaiyankargupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaiyankargupta&theme=dark&hide_border=false)<br/>
@@ -79,7 +79,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jaiyankargupta&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📕 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=jaiyankargupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=jaiyankargupta&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ## 💡 Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
