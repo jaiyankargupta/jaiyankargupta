@@ -2,6 +2,9 @@
 
 **Glad to see you here!** :star_struck: I am a Web Developer and Open Source Developer🚀 from India.
 
+## 👁️ Profile Views:
+![](https://komarev.com/ghpvc/?username=jaiyankargupta&label=PROFILE+VIEWS)
+
 ## 💫 About Me:
 - 🌱 I’m currently learning **Machine Learning**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
@@ -88,8 +91,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-## 👁️ Profile Views:
-![](https://komarev.com/ghpvc/?username=jaiyankargupta&label=PROFILE+VIEWS)
+
 
 ---
 
