@@ -1,17 +1,15 @@
-# Hey 👋🏽, I'm [Rahul Kumar](https://www.linkedin.com/in/jaiyankargupta/)
-
-**Glad to see you here!** :star_struck: I am a Web Developer and Open Source Developer🚀 from India.
+# Hey, I'm Rahul Kumar
 
 
+I'm a Web Developer and Open Source Developer.
 
-## 💫 About Me:
-- 🌱 I’m currently learning **Machine Learning**.
-- 👯 I’m looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **Web Development**.
-- 📫 How to reach me: [jaiyankargupta@gmail.com](mailto:jaiyankargupta@gmail.com)
-- ⚡ Fun fact: I love to solve coding problems and contribute to open source.
+## About Me
+- I'm currently learning GenAI.
+- I'm looking to collaborate on Open Source Projects.
+- How to reach me: [jaiyankargupta@gmail.com](mailto:jaiyankargupta@gmail.com)
+- Fun fact: I love to solve coding problems and contribute to open source.
 
-## 🌐 Socials:
+## Socials
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaiyankargupta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaiyankargupta)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaiyankargupta)
@@ -19,7 +17,8 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jaiyankargupta)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jaiyankargupta)
 
-## 💻 Tech Stack:
+## Tech Stack
+
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -71,32 +70,25 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaiyankargupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaiyankargupta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyankargupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=jaiyankargupta&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-## 📕 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=jaiyankargupta&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
-## 🏆 GitHub Trophies:
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=jaiyankargupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)    ![](https://github-readme-streak-stats.herokuapp.com/?user=jaiyankargupta&theme=dark&hide_border=false)
 
 
-[![An image of @jaiyankargupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaiyankargupta)](https://holopin.io/@jaiyankargupta)
 
-## 💡 Random Dev Quote:
+
+## Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiyankargupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 👁️ Profile Views:
+## Profile Views
 ![](https://komarev.com/ghpvc/?username=jaiyankargupta&label=PROFILE+VIEWS)
-
 
 ---
 
 ## Get in Touch
 
 Feel free to reach out if you want to discuss web development, open source, or any other interesting topics. You can connect with me on [LinkedIn](https://www.linkedin.com/in/jaiyankargupta/) or follow me on [Twitter](https://twitter.com/jaiyankargupta).
-
----
