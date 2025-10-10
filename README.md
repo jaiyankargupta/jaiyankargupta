@@ -17,6 +17,7 @@ I'm a Web Developer and Open Source Developer.
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jaiyankargupta)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jaiyankargupta)
 
+
 ## Tech Stack
 
 ### Languages
@@ -74,12 +75,13 @@ I'm a Web Developer and Open Source Developer.
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jaiyankargupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)    ![](https://github-readme-streak-stats.herokuapp.com/?user=jaiyankargupta&theme=dark&hide_border=false)
 
+## Holopin badges
 
+[![An image of @jaiyankargupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaiyankargupta)](https://holopin.io/@jaiyankargupta)
 
 
 ## Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiyankargupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
