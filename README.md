@@ -22,7 +22,7 @@ backend engg // ai/ml // low level design // cp
     
  <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaiyankargupta)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=jaiyankargupta&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 
 </div>
 
