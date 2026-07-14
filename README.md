@@ -4,14 +4,14 @@
 <samp>
 
   <div align="center">
-backend engg // ai/ml // low level design // cp 
+backend engg // ai/ml // low level design //
 </div>
 
 &nbsp;
 &nbsp;
 
  <div align="center">
-<a href="https://rustyn.vercel.app"><strong>website</strong></a>  | <a href="https://www.linkedin.com/in/jaiyankargupta/"><strong>linkedin</strong></a>  | <a href="https://x.com/jaiyankargupta"><strong>x (twitter)</strong></a>  | <a href="mailto:jaiyankargupta@proton.me"><strong>email</strong></a>
+<a target="_blank" href="https://rustyn.vercel.app"><strong>website</strong></a>  | <a target="_blank"  href="https://www.linkedin.com/in/jaiyankargupta/"><strong>linkedin</strong></a>  | <a target="_blank" href="https://x.com/jaiyankargupta"><strong>x (twitter)</strong></a>  | <a target="_blank" href="mailto:jaiyankargupta@proton.me"><strong>email</strong></a>
    </div>
 
 </samp>
